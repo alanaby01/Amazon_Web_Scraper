@@ -1,4 +1,4 @@
-# Amazon_Web_Scraper
+# Amazon Web Scraper
 A python web scraper CLI ,so that now I can watch over the prices of things I wish to buy at Amazon!!
 
 ## Installation
